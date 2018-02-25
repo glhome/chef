@@ -1,0 +1,6 @@
+development:
+  app_name: oc-id (Development)
+  monitor_mode: false
+  developer_mode: true
+production:
+  monitor_mode: false

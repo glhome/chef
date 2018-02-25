@@ -1,0 +1,4 @@
+.vagrant
+testdata/
+.cached_tz
+dotfiles/.*
